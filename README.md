@@ -1,2 +1,2 @@
 # calculadora
-Projeto simples de calculadora
+Simple Calculator in C, first project.
